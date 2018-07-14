@@ -1,2 +1,0 @@
-# GitGroup
-persional wprk group
