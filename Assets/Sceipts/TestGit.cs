@@ -1,9 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CreatMesh : MonoBehaviour {
+public class TestGit : MonoBehaviour {
 
-    private int Index = 0;
 	// Use this for initialization
 	void Start () {
 	
